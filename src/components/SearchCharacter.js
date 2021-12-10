@@ -1,5 +1,5 @@
 import React from 'react';
-import { Ccard } from './Ccard';
+
 import { useForm } from '../hooks/useForm';
 import { useNavigate,useLocation } from 'react-router-dom';
 import querystring from 'query-string';
